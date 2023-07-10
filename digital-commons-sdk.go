@@ -80,12 +80,4 @@ func (api *digitalCommonsAPI) makeRequest(url string, method string) ([]byte, er
 	default:
 		return nil, errors.New("unknown error")
 	}
-
 }
-
-
-
-
-
-
-
