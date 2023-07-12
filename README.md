@@ -12,4 +12,8 @@ Based off the API documentation found here: https://bepress.com/wp-content/uploa
 3. download GET
 4. fields GET
 
-## Query Paramters
+## How to use
+From your the GO code, run:
+`go get https://github.com/AvalLegal/bepress-digital-commons-go-sdk/`
+
+Then in the code, 
